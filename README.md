@@ -3,4 +3,4 @@
 [![Dependabot](https://badgen.net/badge/PROJECT-1/Анализ_бизнес-модели/cyan?)](https://docs.google.com/spreadsheets/d/1cYhj99MNjyoP1yvqb21XmrqwTQ1HDJ2tHha0ljSbL70/edit#gid=1504646163)
 
 
-[![Dependabot](https://img.shields.io/badge/PROJECT_2-Анализ_бизнес_модели2-blue)](https://docs.google.com/spreadsheets/d/1cYhj99MNjyoP1yvqb21XmrqwTQ1HDJ2tHha0ljSbL70/edit#gid=1504646163)
+[![Dependabot](https://img.shields.io/badge/PROJECT_2-Анализ_бизнес--модели2-blue)](https://docs.google.com/spreadsheets/d/1cYhj99MNjyoP1yvqb21XmrqwTQ1HDJ2tHha0ljSbL70/edit#gid=1504646163)
