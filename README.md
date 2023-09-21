@@ -6,4 +6,8 @@
 [![Dependabot](https://img.shields.io/badge/PROJECT_1.-Анализ_бизнес--модели(Google_sheets)-cyan)](https://docs.google.com/spreadsheets/d/1cYhj99MNjyoP1yvqb21XmrqwTQ1HDJ2tHha0ljSbL70/edit#gid=1504646163)
 
 
-[![Dependabot](https://badgen.net/badge/PROJECT_1.-Анализ_бизнес--модели(Google_sheets)-cyan)](https://docs.google.com/spreadsheets/d/1cYhj99MNjyoP1yvqb21XmrqwTQ1HDJ2tHha0ljSbL70/edit#gid=1504646163)
+<p align="center">
+  <a href="https://github.com/[user]/[repository]/releases/"><img alt="" src="" /></a>
+  <a href=""><img alt="" src="" /></a>
+  <a href=""><img alt="" src="" /></a>
+</p>
