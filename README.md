@@ -24,14 +24,4 @@
 
 
 
-<div id="badges">
-  <a href="https://vk.com/feed">
-    <img src="https://img.shields.io/badge/Вконтакте-blue?style=for-the-badge&logo=Vk&logoColor=white" alt="Вконтакте Badge"/>
-  </a>
-  <a href="https://wa.me/79137883320">
-    <img src="https://img.shields.io/badge/WhatsApp-green?style=for-the-badge&logo=WhatsApp&logoColor=white" alt="WhatsApp Badge"/>
-  </a>
-  <a href="https://t.me/+79137883320">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
-  </a>
-</div>
+
