@@ -5,9 +5,7 @@
 
 [![Dependabot](https://img.shields.io/badge/PROJECT_1.-Анализ_бизнес--модели(Google_sheets)-cyan)](https://docs.google.com/spreadsheets/d/1cYhj99MNjyoP1yvqb21XmrqwTQ1HDJ2tHha0ljSbL70/edit#gid=1504646163)
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
+<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
 
 <div id="badges">
   <a href="https://vk.com/feed">
