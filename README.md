@@ -4,4 +4,4 @@
 
 https://img.shields.io/badge/PROJECT-1-Анализ_бизнес-модели-blue
 
-[![Dependabot](https://img.shields.io/badge/PROJECT-1-Анализ_бизнес_модели-blue)](https://docs.google.com/spreadsheets/d/1cYhj99MNjyoP1yvqb21XmrqwTQ1HDJ2tHha0ljSbL70/edit#gid=1504646163)
+[![Dependabot](https://img.shields.io/badge/PROJECT_1-Анализ_бизнес_модели-blue)](https://docs.google.com/spreadsheets/d/1cYhj99MNjyoP1yvqb21XmrqwTQ1HDJ2tHha0ljSbL70/edit#gid=1504646163)
