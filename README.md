@@ -18,7 +18,7 @@
 
 
 <div id="badges">
-  <a href="your-linkedin-URL">
+  <a href="[your-linkedin-URL](https://vk.com/feed)">
     <img src="https://img.shields.io/badge/Вконтакте-blue?style=for-the-badge&logo=Vk&logoColor=white" alt="Вконтакте Badge"/>
   </a>
   <a href="your-youtube-URL">
