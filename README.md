@@ -1,9 +1,7 @@
 ![Header](https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/21f92350586481.58d5e6812701c.gif)
 
 [telegram-news-badge]: https://img.shields.io/badge/Sophia%20News-Telegram-blue?style=flat&logo=Telegram
-[telegram-news]: https://t.me/sophianews
-[telegram-group]: https://t.me/sophia_chat
-[telegram-group-badge]: https://img.shields.io/badge/Sophia%20Chat-Telegram-blue?style=flat&logo=Telegram
+
 
 
 
