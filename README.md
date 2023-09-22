@@ -22,6 +22,7 @@ _______________________________________
 
 [![Project2](https://img.shields.io/badge/PROJECT_8.-Исследование_каналов_привлечения(Python,библиотеки--Pandas,requests,matplotlib)-blue)](https://colab.research.google.com/drive/1oIEKmhYW93yaypJa98Eh0hDKJdO1wuJz?usp=sharing)
 
+[![Project2](https://img.shields.io/badge/PROJECT_9.-Оценка_продуктовой_фичи(Python,библиотеки--Pandas,numpy)-blue)](https://colab.research.google.com/drive/1uHTHWWp0quPQ2u_UtdPc2LlTrWfKCDLJ?usp=sharing)
 _______________________________________
 
 <div id="header" align="center">
