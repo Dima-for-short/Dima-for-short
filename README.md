@@ -1,6 +1,6 @@
 ![Header](https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif)
 
-__
+_______________________________________
 
 [![Project](https://img.shields.io/badge/PROJECT_1.-Анализ_бизнес--модели(Google_sheets)-cyan)](https://docs.google.com/spreadsheets/d/1cYhj99MNjyoP1yvqb21XmrqwTQ1HDJ2tHha0ljSbL70/edit#gid=1504646163)
 
