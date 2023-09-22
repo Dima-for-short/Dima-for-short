@@ -16,7 +16,7 @@ _______________________________________
 
 [![Project2](https://img.shields.io/badge/PROJECT_5.-Решение_бизнес--задач(SQL)-cyan)](https://docs.google.com/document/d/1JScvBu1Cr9I0toQsEvgsq9b9IkK8V8ssjvMXfqlJlJQ/edit)
 
-
+_______________________________________
 
 <div id="badges" align="center">
    </a>
@@ -30,6 +30,7 @@ _______________________________________
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
+
 
 <div id="header" align="center">
   <img src="https://i.pinimg.com/originals/af/8d/9a/af8d9ac62dd43026957e1cf82a027637.gif" width="300"/>
