@@ -6,6 +6,8 @@ _______________________________________
 
 [![Project2](https://img.shields.io/badge/PROJECT_2.-Решение_бизнес--задач_с_помощью_SQL(SQL)-cyan)](https://docs.google.com/document/d/1JScvBu1Cr9I0toQsEvgsq9b9IkK8V8ssjvMXfqlJlJQ/edit)
 
+[![Project](https://img.shields.io/badge/PROJECT_3.-Анализ_эффективности_бизнес--показателей(Power_BI)-cyan)](https://app.powerbi.com/view?r=eyJrIjoiYzI0ZTQ3NzEtYjNkYS00NzNjLWEzZmUtZGIzZGM5MzE0NzYyIiwidCI6IjZhNGRlZTAxLWMzZjUtNGQ0Yi1iZGQyLTllMWYxNDgyYWM1ZCIsImMiOjl9)
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
