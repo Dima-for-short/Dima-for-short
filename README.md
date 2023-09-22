@@ -4,7 +4,7 @@ _______________________________________
 
 [![Project](https://img.shields.io/badge/PRE--PROJECT.-Расчет_некоторых_метрик(Google_sheets)-cyan)](https://docs.google.com/spreadsheets/d/1S9yfCZNxPtlM-7JPzIZU4la7GUQxrRi7Qjew73-5Gmo/edit#gid=0)
 
-[![Project](https://img.shields.io/badge/PROJECT_1.-Анализ_бизнес--модели(Google_sheets)-cyan)](https://docs.google.com/spreadsheets/d/1cYhj99MNjyoP1yvqb21XmrqwTQ1HDJ2tHha0ljSbL70/edit#gid=1504646163)
+[![Project](https://img.shields.io/badge/PROJECT_1.-Анализ_бизнес--модели(Когортный_анализ+Google_sheets)-cyan)](https://docs.google.com/spreadsheets/d/1cYhj99MNjyoP1yvqb21XmrqwTQ1HDJ2tHha0ljSbL70/edit#gid=1504646163)
 
 [![Project](https://img.shields.io/badge/PROJECT_2.-Анализ_эффективности_бизнес--показателей(Power_BI)-cyan)](https://app.powerbi.com/view?r=eyJrIjoiYzI0ZTQ3NzEtYjNkYS00NzNjLWEzZmUtZGIzZGM5MzE0NzYyIiwidCI6IjZhNGRlZTAxLWMzZjUtNGQ0Yi1iZGQyLTllMWYxNDgyYWM1ZCIsImMiOjl9)
 
