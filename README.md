@@ -18,6 +18,10 @@ _______________________________________
 
 _______________________________________
 
+<div id="header" align="center">
+  <img src="https://i.pinimg.com/originals/af/8d/9a/af8d9ac62dd43026957e1cf82a027637.gif" width="300"/>
+</div>
+
 <div id="badges" align="center">
    </a>
   <a href="https://id.mail.ru/profile?utm_campaign=mailid&utm_medium=ph&from=headline">
@@ -31,10 +35,6 @@ _______________________________________
   </a>
 </div>
 
-
-<div id="header" align="center">
-  <img src="https://i.pinimg.com/originals/af/8d/9a/af8d9ac62dd43026957e1cf82a027637.gif" width="300"/>
-</div>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
