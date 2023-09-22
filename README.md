@@ -18,6 +18,8 @@ _______________________________________
 
 [![Project2](https://img.shields.io/badge/PROJECT_6.-Исследование_поведения_пользователей(Python_библиотека--Pandas)-blue)](https://colab.research.google.com/drive/1wvRBGClpaSo2kZ7t82D4jQX5o5Lt7C0I?usp=sharing)
 
+[![Project2](https://img.shields.io/badge/PROJECT_7.-Анализ_воронки(Python_библиотеки--Pandas)-blue)](https://colab.research.google.com/drive/1UdPj9nHACFlKd_6NDmv8Che9uRfNS4u0?usp=sharing)
+
 _______________________________________
 
 <div id="header" align="center">
