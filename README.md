@@ -16,6 +16,8 @@ _______________________________________
 
 [![Project2](https://img.shields.io/badge/PROJECT_5.-Решение_бизнес--задач(SQL)-cyan)](https://docs.google.com/document/d/1JScvBu1Cr9I0toQsEvgsq9b9IkK8V8ssjvMXfqlJlJQ/edit)
 
+[![Project2](https://img.shields.io/badge/PROJECT_6.-Исследование_поведения_пользователей(Python_библиотека--Pandas)-cyan)](https://colab.research.google.com/drive/1wvRBGClpaSo2kZ7t82D4jQX5o5Lt7C0I?usp=sharing)
+
 _______________________________________
 
 <div id="header" align="center">
