@@ -12,7 +12,9 @@ _______________________________________
 
 [![Project](https://img.shields.io/badge/PROJECT_3.-Финансовая_аналитика(Power_BI)-cyan)](https://app.powerbi.com/reportEmbed?reportId=d4d68035-4828-47fe-b7ae-9a194888c2b6&autoAuth=true&ctid=6a4dee01-c3f5-4d4b-bdd2-9e1f1482ac5d)
 
-[![Project2](https://img.shields.io/badge/PROJECT_4.-Решение_бизнес--задач(SQL)-cyan)](https://docs.google.com/document/d/1JScvBu1Cr9I0toQsEvgsq9b9IkK8V8ssjvMXfqlJlJQ/edit)
+[![Project](https://img.shields.io/badge/PROJECT_4.-Сквозная_маркетинговая_аналитика(Power_BI+SQL)-cyan)](https://app.powerbi.com/view?r=eyJrIjoiMzE5ZmVmYzQtYmU0Zi00ZTBkLTlkN2QtNjA2MjgwZDU1ZGNhIiwidCI6IjZhNGRlZTAxLWMzZjUtNGQ0Yi1iZGQyLTllMWYxNDgyYWM1ZCIsImMiOjl9)
+
+[![Project2](https://img.shields.io/badge/PROJECT_5.-Решение_бизнес--задач(SQL)-cyan)](https://docs.google.com/document/d/1JScvBu1Cr9I0toQsEvgsq9b9IkK8V8ssjvMXfqlJlJQ/edit)
 
 
 <div id="header" align="center">
