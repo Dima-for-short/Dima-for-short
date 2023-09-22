@@ -12,7 +12,7 @@
 
 <div id="badges" align="center">
    </a>
-  <a href="https://wa.me/79137883320">
+  <a href="kamancha_01@mail.ru">
     <img src="https://img.shields.io/badge/Mail.ru-blue?style=for-the-badge&logo=Mail.ru&logoColor=white" alt="Mail.ru Badge"/>
     </a>
   <a href="https://wa.me/79137883320">
