@@ -19,7 +19,7 @@ _______________________________________
 
 
 <div id="header" align="left">
-  <img src="https://i.pinimg.com/originals/af/8d/9a/af8d9ac62dd43026957e1cf82a027637.gif" width="100"/>
+  <img src="https://i.pinimg.com/originals/af/8d/9a/af8d9ac62dd43026957e1cf82a027637.gif" width="300"/>
 </div>
 
 
