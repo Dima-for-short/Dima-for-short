@@ -18,12 +18,12 @@ _______________________________________
 
 
 
-<div id="header" align="left">
+<div id="header" align="center">
   <img src="https://i.pinimg.com/originals/af/8d/9a/af8d9ac62dd43026957e1cf82a027637.gif" width="300"/>
 </div>
 
 
-<div id="badges" align="left">
+<div id="badges" align="center">
    </a>
   <a href="https://id.mail.ru/profile?utm_campaign=mailid&utm_medium=ph&from=headline">
     <img src="https://img.shields.io/badge/Mail.ru-blue?style=for-the-badge&logo=Mail.ru&logoColor=white" alt="Mail.ru Badge"/>
