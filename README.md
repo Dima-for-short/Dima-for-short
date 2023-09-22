@@ -1,4 +1,4 @@
-<div id="header" align="left">
+<div id="header" align="center">
   <img src="https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif" width="700"/>
 </div>
 
@@ -14,7 +14,7 @@ _______________________________________
 
 [![Project2](https://img.shields.io/badge/PROJECT_4.-Решение_бизнес--задач(SQL)-cyan)](https://docs.google.com/document/d/1JScvBu1Cr9I0toQsEvgsq9b9IkK8V8ssjvMXfqlJlJQ/edit)
 
-![Header](https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif)
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
