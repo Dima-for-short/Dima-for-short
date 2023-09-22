@@ -1,7 +1,7 @@
 ![Header](https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif)
 
 _______________________________________
-[![Project](https://img.shields.io/badge/PRE-PROJECT.-Расчет_некоторых_метрик(Google_sheets)-cyan)](https://docs.google.com/spreadsheets/d/1S9yfCZNxPtlM-7JPzIZU4la7GUQxrRi7Qjew735Gmo/edit#gid=0)
+[![Project](https://img.shields.io/badge/PRE-PROJECT.-Расчет_некоторых_метрик(Google_sheets)-cyan)]()
 
 [![Project](https://img.shields.io/badge/PROJECT_1.-Анализ_бизнес--модели(Google_sheets)-cyan)](https://docs.google.com/spreadsheets/d/1cYhj99MNjyoP1yvqb21XmrqwTQ1HDJ2tHha0ljSbL70/edit#gid=1504646163)
 
