@@ -9,7 +9,11 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
+
 <div id="badges" align="center">
+   </a>
+  <a href="https://wa.me/79137883320">
+    <img src="https://img.shields.io/badge/Mail.ru-blue?style=for-the-badge&logo=Mail.rup&logoColor=white" alt="Mail.ru Badge"/>
     </a>
   <a href="https://wa.me/79137883320">
     <img src="https://img.shields.io/badge/WhatsApp-green?style=for-the-badge&logo=WhatsApp&logoColor=white" alt="WhatsApp Badge"/>
