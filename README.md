@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://www.kunocreative.com/hs-fs/hub/32387/file-2508041258-gif/Floating-head-for-GIF-1.gif" width="300"/>
+  <img src="https://www.kunocreative.com/hs-fs/hub/32387/file-2508041258-gif/Floating-head-for-GIF-1.gif" width="600"/>
 </div>
 
 _______________________________________
