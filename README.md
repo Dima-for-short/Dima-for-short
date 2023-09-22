@@ -12,7 +12,7 @@
 
 <div id="badges" align="center">
    </a>
-  <a href="https://e.mail.ru/inbox/?utm_source=portal&utm_medium=new_portal_navigation&utm_campaign=e.mail.ru&mt_click_id=mt-y7s979-1695377058-1228579149&mt_sub1=id.mail.ru">
+  <a href="https://id.mail.ru/profile?utm_campaign=mailid&utm_medium=ph&from=headline">
     <img src="https://img.shields.io/badge/Mail.ru-blue?style=for-the-badge&logo=Mail.ru&logoColor=white" alt="Mail.ru Badge"/>
     </a>
   <a href="https://wa.me/79137883320">
