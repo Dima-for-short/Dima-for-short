@@ -32,7 +32,7 @@ _______________________________________
 _______________________________________
 
 
-[![certificate](https://img.shields.io/badge/СЕРТИФИКАТ.-«Мастер_Google_Таблиц»-blue)](https://drive.google.com/file/d/1agr5ZIArFxfzz5nAoMC54vI37Rs_CNFh/view?usp=sharing))
+[![certificate](https://img.shields.io/badge/СЕРТИФИКАТ-«Мастер_Google_Таблиц»-blue)](https://drive.google.com/file/d/1agr5ZIArFxfzz5nAoMC54vI37Rs_CNFh/view?usp=sharing)
 
 
 
