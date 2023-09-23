@@ -26,7 +26,7 @@ _______________________________________
 
 [![Project11](https://img.shields.io/badge/PROJECT_10.-Решение_комплексной_бизнес--задачи(Python+SQL,библиотеки--itertools,psycopg2,numpy,pandas)-blue)](https://colab.research.google.com/drive/1I7FnwLF7OPE-bKPRnD6_gmtOuQZpcf6b?usp=sharing)
 
-[![Project12](https://img.shields.io/badge/PROJECT_11.-RFM--Анализ(Python,библиотеки--,plotly,matplotlib,pandas)-blue)](https://colab.research.google.com/drive/1q2LNnJIEC6ya7z8D_gUuOqG9xpvm9wdl?usp=sharing)
+[![Project12](https://img.shields.io/badge/PROJECT_11.-RFM--Анализ(Python,библиотеки--plotly,matplotlib,pandas)-blue)](https://colab.research.google.com/drive/1q2LNnJIEC6ya7z8D_gUuOqG9xpvm9wdl?usp=sharing)
 
 [![Project13](https://img.shields.io/badge/PROJECT_12.-Поведенческая_аналитика(проведение_ad--hoc_исследования)(Python,библиотеки--datetime,plotly,matplotlib,numpy,pandas)-blue)](https://colab.research.google.com/drive/1LO7lV3bR9s5ZXkbLOW-s7WU8JcVRQEFs?usp=sharing)
 _______________________________________
