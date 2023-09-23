@@ -31,8 +31,8 @@ _______________________________________
 [![Project13](https://img.shields.io/badge/PROJECT_12.-Поведенческая_аналитика(проведение_ad--hoc_исследования)(Python,библиотеки--datetime,plotly,matplotlib,numpy,pandas)-blue)](https://colab.research.google.com/drive/1LO7lV3bR9s5ZXkbLOW-s7WU8JcVRQEFs?usp=sharing)
 _______________________________________
 
-[![certificate](https://img.shields.io/badge/СЕРТИФИКАТ-«Мастер_Google_Таблиц»)](https://drive.google.com/file/d/1agr5ZIArFxfzz5nAoMC54vI37Rs_CNFh/view?usp=sharing)-red)]
 
+[![certificate](https://img.shields.io/badge/СЕРТИФИКАТ.-«Мастер_Google_Таблиц»https://drive.google.com/file/d/1agr5ZIArFxfzz5nAoMC54vI37Rs_CNFh/view?usp=sharing)-blue)]
 
 
 _______________________________________
