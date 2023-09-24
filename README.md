@@ -93,7 +93,7 @@ _______________________________________
 
 <div id="badges" align="center">
    </a>
-  <a href="https://id.mail.ru/profile?utm_campaign=mailid&utm_medium=ph&from=headline">
+  <a href="https://my.mail.ru/mail/kamancha_01/">
     <img src="https://img.shields.io/badge/Mail.ru-blue?style=for-the-badge&logo=Mail.ru&logoColor=white" alt="Mail.ru Badge"/>
     </a>
   <a href="https://wa.me/79137883320">
