@@ -84,9 +84,6 @@ _______________________________________
 
 *(Кликай по шильдику:point_up_2:)*
 
-<div id="header" align="left">
-  <img src="https://papik.pro/uploads/posts/2022-08/1661927227_23-papik-pro-p-vniz-smailik-png-23.jpg" width="100"/>
-</div>
 
 <div id="badges" align="left">
    </a>
@@ -104,7 +101,7 @@ _______________________________________
 
 
 
-<div id="header" align="center">
+<div id="header" align="left">
   <img src="https://avatars.dzeninfra.ru/get-zen_doc/9400491/pub_642d44edf6cbd057e1d8e64f_642d4511b5db701f574722da/scale_1200" width="800"/>
 </div>
 
