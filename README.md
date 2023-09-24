@@ -12,11 +12,6 @@
 <div id="badges" align="left">
    </a>
   <a href="https://docs.google.com/presentation/d/1aNG2AnJGoESSJjhwMGntupfltTeqoocq/edit?usp=sharing&ouid=112066276742177026889&rtpof=true&sd=true">
-    <img src="https://img.shields.io/badge/РЕЗЮМЕ-red?style=for-the-badge&logo=РЕЗЮМЕ&logoColor=white" alt="РЕЗЮМЕ Badge"/> 
-
-<div id="badges" align="left">
-   </a>
-  <a href="https://obrnadzor.gov.ru/">
     <img src="https://img.shields.io/badge/obrnadzor.gov.ru-green?style=for-the-badge&logo=obrnadzor.gov&logoColor=white" alt="obrnadzor.gov.ru Badge"/> 
 
 _______________________________________
