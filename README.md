@@ -4,6 +4,8 @@
 
 _______________________________________
 
+## ***Посмотреть мои работы можно по ссылкам ниже:***
+
 [![Project1](https://img.shields.io/badge/PRE--PROJECT.-Расчет_некоторых_метрик(Google_sheets)-blue)](https://docs.google.com/spreadsheets/d/1S9yfCZNxPtlM-7JPzIZU4la7GUQxrRi7Qjew73-5Gmo/edit#gid=0)
 
 [![Project2](https://img.shields.io/badge/PROJECT_1.-Анализ_бизнес--модели(Когортный_анализ+Google_sheets)-blue)](https://docs.google.com/spreadsheets/d/1cYhj99MNjyoP1yvqb21XmrqwTQ1HDJ2tHha0ljSbL70/edit#gid=1504646163)
