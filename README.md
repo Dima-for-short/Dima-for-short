@@ -51,8 +51,8 @@ _______________________________________
 
 <div id="badges" align="center">
    </a>
-  <a href="https://id.mail.ru/profile?utm_campaign=mailid&utm_medium=ph&from=headline">
-    <img src="https://img.shields.io/badge/Mail.ru-blue?style=for-the-badge&logo=Mail.ru&logoColor=white" alt="Mail.ru Badge"/>
+  <a href="https://obrnadzor.gov.ru/">
+    <img src="https://img.shields.io/badge/obrnadzor.gov.ru-blue?style=for-the-badge&logo=Mail.ru&logoColor=white" alt="obrnadzor.gov.ru Badge"/>
     
 _______________________________________
 
