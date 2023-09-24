@@ -53,7 +53,7 @@ _______________________________________
 ***Дипломы можно проверить в реестре на сайте Рособрнадзора***
 
 :point_down::point_down::point_down:
-<div id="badges" align="center">
+<div id="badges" align="left">
    </a>
   <a href="https://obrnadzor.gov.ru/">
     <img src="https://img.shields.io/badge/obrnadzor.gov.ru-red?style=for-the-badge&logo=obrnadzor.gov&logoColor=white" alt="obrnadzor.gov.ru Badge"/> 
