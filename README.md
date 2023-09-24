@@ -41,7 +41,7 @@ _______________________________________
 [![Project13](https://img.shields.io/badge/PROJECT_12.-Поведенческая_аналитика(проведение_ad--hoc_исследования)(Python,библиотеки--datetime,plotly,matplotlib,numpy,pandas)-blue)](https://colab.research.google.com/drive/1LO7lV3bR9s5ZXkbLOW-s7WU8JcVRQEFs?usp=sharing)
 _______________________________________
 
-### **Сертификаты** :point_down: :point_down: :point_down:
+### **Сертификаты** 
 
 *(Кликай по шильдикам:point_up_2:)*
 
@@ -56,7 +56,7 @@ _______________________________________
 
 _______________________________________
 
-### **Дипломы** :point_down: :point_down: :point_down:
+### **Дипломы** 
 
 *(Кликай по шильдикам:point_up_2:)*
 
