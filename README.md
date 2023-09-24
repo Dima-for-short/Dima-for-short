@@ -61,7 +61,7 @@ _______________________________________
     
 _______________________________________
 
-<div id="header" align="left">
+<div id="header" align="center">
   <img src="https://papik.pro/uploads/posts/2022-08/1661927227_23-papik-pro-p-vniz-smailik-png-23.jpg" width="100"/>
 </div>
 
