@@ -104,6 +104,3 @@ _______________________________________
   <img src="https://avatars.dzeninfra.ru/get-zen_doc/9400491/pub_642d44edf6cbd057e1d8e64f_642d4511b5db701f574722da/scale_1200" width="800"/>
 </div>
 
-<div id="header" align="center">
-  <img src="https://www.kunocreative.com/hs-fs/hub/32387/file-2508041258-gif/Floating-head-for-GIF-1.gif" width="800"/>
-</div>
