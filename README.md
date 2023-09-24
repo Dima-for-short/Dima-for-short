@@ -80,7 +80,7 @@ _______________________________________
     
 _______________________________________
 
-### **Если вы не нашли то что хотели найти или у вас остались какие-та вопросы, вы можете связаться со мной мгновенно перейдя по ссылке ниже выбрав мессенжер который Вам более предпочтительнее** 
+### **Если вы не нашли то что хотели найти или у вас остались какие-то вопросы, вы можете связаться со мной мгновенно перейдя по ссылке ниже выбрав мессенжер который Вам более предпочтительнее** 
 
 *(Кликай по шильдику:point_up_2:)*
 
@@ -88,7 +88,7 @@ _______________________________________
   <img src="https://papik.pro/uploads/posts/2022-08/1661927227_23-papik-pro-p-vniz-smailik-png-23.jpg" width="100"/>
 </div>
 
-<div id="badges" align="center">
+<div id="badges" align="left">
    </a>
   <a href="https://id.mail.ru/profile?utm_campaign=mailid&utm_medium=ph&from=headline">
     <img src="https://img.shields.io/badge/Mail.ru-blue?style=for-the-badge&logo=Mail.ru&logoColor=white" alt="Mail.ru Badge"/>
