@@ -46,8 +46,9 @@ _______________________________________
 
 [![certificate](https://img.shields.io/badge/ДИПЛОМ(магистр)-«НГТУ,ФМА,Электроэнергетика_и_электротехника»-green)](https://drive.google.com/file/d/1f6U3hO3TkPXtndIvxHQ8al0GndpBafAq/view?usp=sharing)
 
-[![certificate](https://img.shields.io/badge/ДИПЛОМ(бакалавр)-«НГТУ,ФМА,Автоматизация_технологических_процессов_и_производств»-green)](https://drive.google.com/file/d/1hegd2T2Yovv3Czadz35MkTpVM8gt6eVq/view?usp=sharing)
+[![certificate](https://img.shields.io/badge/ДИПЛОМ(бакалавр)-«НГТУ,ФМА,Автоматизация_технологических_процессов_и_производств(по_отраслям)»-green)](https://drive.google.com/file/d/1hegd2T2Yovv3Czadz35MkTpVM8gt6eVq/view?usp=sharing)
 
+[![certificate](https://img.shields.io/badge/ДИПЛОМ(специалист)-«ТПТК,ЭВМ,Мастер_производственного_обучения_техник--электронщик(всех_наименований)»-green)](https://drive.google.com/file/d/1ku15_F1yPyH0eEUb15C-nEIZQq2iXfEq/view?usp=sharing)
 
 _______________________________________
 <div id="header" align="center">
