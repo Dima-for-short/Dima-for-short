@@ -12,6 +12,8 @@ _______________________________________
 
 ### **Посмотреть мои работы можно по ссылкам ниже:**
 
+*(Кликай по шильдикам:point_up_2:)*
+
 [![Project1](https://img.shields.io/badge/PRE--PROJECT.-Расчет_некоторых_метрик(Google_sheets)-blue)](https://docs.google.com/spreadsheets/d/1S9yfCZNxPtlM-7JPzIZU4la7GUQxrRi7Qjew73-5Gmo/edit#gid=0)
 
 [![Project2](https://img.shields.io/badge/PROJECT_1.-Анализ_бизнес--модели(Когортный_анализ+Google_sheets)-blue)](https://docs.google.com/spreadsheets/d/1cYhj99MNjyoP1yvqb21XmrqwTQ1HDJ2tHha0ljSbL70/edit#gid=1504646163)
@@ -39,6 +41,9 @@ _______________________________________
 [![Project13](https://img.shields.io/badge/PROJECT_12.-Поведенческая_аналитика(проведение_ad--hoc_исследования)(Python,библиотеки--datetime,plotly,matplotlib,numpy,pandas)-blue)](https://colab.research.google.com/drive/1LO7lV3bR9s5ZXkbLOW-s7WU8JcVRQEFs?usp=sharing)
 _______________________________________
 
+### **Сертификаты** :point_down: :point_down: :point_down:
+
+*(Кликай по шильдикам:point_up_2:)*
 
 [![certificate](https://img.shields.io/badge/СЕРТИФИКАТ-«Мастер_Google_Таблиц»-red)](https://drive.google.com/file/d/1agr5ZIArFxfzz5nAoMC54vI37Rs_CNFh/view?usp=sharing)
 
@@ -51,6 +56,10 @@ _______________________________________
 
 _______________________________________
 
+### **Дипломы** :point_down: :point_down: :point_down:
+
+*(Кликай по шильдикам:point_up_2:)*
+
 [![certificate](https://img.shields.io/badge/ДИПЛОМ(магистр)-«НГТУ,ФМА,Электроэнергетика_и_электротехника»-blue)](https://drive.google.com/file/d/1f6U3hO3TkPXtndIvxHQ8al0GndpBafAq/view?usp=sharing)
 
 [![certificate](https://img.shields.io/badge/ДИПЛОМ(бакалавр)-«НГТУ,ФМА,Автоматизация_технологических_процессов_и_производств(по_отраслям)»-blue)](https://drive.google.com/file/d/1hegd2T2Yovv3Czadz35MkTpVM8gt6eVq/view?usp=sharing)
@@ -59,6 +68,8 @@ _______________________________________
 
 
 ***Дипломы можно проверить в реестре на сайте Рособрнадзора***
+
+*(Кликай по шильдику:point_up_2:)*
 
 :point_down::point_down::point_down:
 <div id="badges" align="left">
