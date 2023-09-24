@@ -50,11 +50,11 @@ _______________________________________
 [![certificate](https://img.shields.io/badge/ДИПЛОМ(специалист)-«ТПТК,ЭВМ,Мастер_производственного_обучения_техник--электронщик(всех_наименований)»-green)](https://drive.google.com/file/d/1ku15_F1yPyH0eEUb15C-nEIZQq2iXfEq/view?usp=sharing)
 
 
-<font size="9" color="red"><b>Дипломы — проверьте в реестре на сайте Рособрнадзора</font>
-<div id="badges" align="center">
+***Дипломы — проверьте в реестре на сайте Рособрнадзора***
+<div id="badges" align="left">
    </a>
   <a href="https://obrnadzor.gov.ru/">
-    <img src="https://img.shields.io/badge/obrnadzor.gov.ru-blue?style=for-the-badge&logo=obrnadzor.gov&logoColor=white" alt="obrnadzor.gov.ru Badge"/> 
+    <img src="https://img.shields.io/badge/obrnadzor.gov.ru-grey?style=for-the-badge&logo=obrnadzor.gov&logoColor=white" alt="obrnadzor.gov.ru Badge"/> 
     
     
 _______________________________________
