@@ -34,7 +34,11 @@ _______________________________________
 
 [![certificate](https://img.shields.io/badge/СЕРТИФИКАТ-«Мастер_Google_Таблиц»-red)](https://drive.google.com/file/d/1agr5ZIArFxfzz5nAoMC54vI37Rs_CNFh/view?usp=sharing)
 
+[![certificate](https://img.shields.io/badge/СЕРТИФИКАТ-«Анализ_данных_в_Power_BI»-red)](https://drive.google.com/file/d/1rr6AMrpPRgtXUVQ8nKLex8AkaHV5_hL7/view?usp=sharing)
 
+[![certificate](https://img.shields.io/badge/СЕРТИФИКАТ-«Курс--тренажер_по_SQL»-red)](https://drive.google.com/file/d/1Y5QFo0E7y4KN9vJvrcFYG7AfiGr2ceny/view?usp=sharing)
+
+[![certificate](https://img.shields.io/badge/СЕРТИФИКАТ-«Python_для_анализа_данных»-red)](https://drive.google.com/file/d/1eShN1_hxIMOH1IvyMPfN6ooh4mDw993_/view?usp=sharing)
 
 _______________________________________
 <div id="header" align="center">
