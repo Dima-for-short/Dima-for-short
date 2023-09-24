@@ -52,7 +52,7 @@ _______________________________________
 
 ***Дипломы можно проверить в реестре на сайте Рособрнадзора***
 
-<div id="header" align="center">
+<div id="header" align="left">
   <img src="https://papik.pro/uploads/posts/2022-08/1661927227_23-papik-pro-p-vniz-smailik-png-23.jpg" width="200"/>
 </div>
 
