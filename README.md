@@ -52,7 +52,7 @@ _______________________________________
 <div id="badges" align="center">
    </a>
   <a href="https://obrnadzor.gov.ru/">
-    <img src="https://img.shields.io/badge/obrnadzor.gov.ru-blue?style=for-the-badge&logo=obrnadzor.gov.ru&logoColor=white" alt="obrnadzor.gov.ru Badge"/>
+    <img src="https://img.shields.io/badge/obrnadzor.gov.ru-blue?style=for-the-badge&logo=obrnadzor.gov&logoColor=white" alt="obrnadzor.gov.ru Badge"/>
     
 _______________________________________
 
