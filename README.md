@@ -85,7 +85,7 @@ _______________________________________
 *(Кликай по шильдику:point_up_2:)*
 
 
-<div id="badges" align="left">
+<div id="badges" align="center">
    </a>
   <a href="https://id.mail.ru/profile?utm_campaign=mailid&utm_medium=ph&from=headline">
     <img src="https://img.shields.io/badge/Mail.ru-blue?style=for-the-badge&logo=Mail.ru&logoColor=white" alt="Mail.ru Badge"/>
