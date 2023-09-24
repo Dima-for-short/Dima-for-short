@@ -40,6 +40,13 @@ _______________________________________
 
 [![certificate](https://img.shields.io/badge/СЕРТИФИКАТ-«Python_для_анализа_данных»-red)](https://drive.google.com/file/d/1eShN1_hxIMOH1IvyMPfN6ooh4mDw993_/view?usp=sharing)
 
+[![certificate](https://img.shields.io/badge/СЕРТИФИКАТ-«Python_для_анализа_данных»-red)](https://drive.google.com/file/d/1eShN1_hxIMOH1IvyMPfN6ooh4mDw993_/view?usp=sharing)
+
+_______________________________________
+
+[![certificate](https://img.shields.io/badge/ДИПЛОМ(магистр)-«НГТУ,ФМА,Электроэнергетика_и_электротехника»-green)](https://drive.google.com/file/d/1f6U3hO3TkPXtndIvxHQ8al0GndpBafAq/view?usp=sharing)
+
+
 _______________________________________
 <div id="header" align="center">
   <img src="https://i.pinimg.com/originals/af/8d/9a/af8d9ac62dd43026957e1cf82a027637.gif" width="300"/>
