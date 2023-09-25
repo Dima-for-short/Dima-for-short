@@ -14,6 +14,7 @@
   <a href="https://docs.google.com/presentation/d/1aNG2AnJGoESSJjhwMGntupfltTeqoocq/edit?usp=sharing&ouid=112066276742177026889&rtpof=true&sd=true">
     <img src="https://img.shields.io/badge/РЕЗЮМЕ-red?style=for-the-badge&logo=obrnadzor.gov&logoColor=white" alt="obrnadzor.gov.ru Badge"/> 
 
+:white_check_mark:Прокручивай колесико мыши вниз и кликай по шильдикам 
 _______________________________________
 
 ### **Проекты были выполнены с помощью инструментов таких как:**
