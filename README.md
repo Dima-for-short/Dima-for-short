@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/РЕЗЮМЕ-red?style=for-the-badge&logo=obrnadzor.gov&logoColor=white" alt="obrnadzor.gov.ru Badge"/> 
 
 
-:white_check_mark:Прокручивай колесико мыши вниз и кликай по шильдикам 
+:white_check_mark:  Прокручивай колесико мыши вниз и кликай по шильдикам 
 
 _______________________________________
 
