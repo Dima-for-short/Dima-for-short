@@ -18,15 +18,15 @@ _______________________________________
 
 ### **Проекты были выполнены с помощью инструментов таких как:**
 
-:red_circle:Google-таблицы(сводные таблицы, графики/диаграммы, работа с формулами)
+:large_blue_circle:Google-таблицы(сводные таблицы, графики/диаграммы, работа с формулами)
 
-:red_circle:SQL(Вложенные запросы, CTE-запросы, оконные функции)
+:large_blue_circle:SQL(Вложенные запросы, CTE-запросы, оконные функции)
 
-:red_circle:Power BI(Дашборды, отчеты, выводы)
+:large_blue_circle:Power BI(Дашборды, отчеты, выводы)
 
-:red_circle:Python(pandas, numpy, matplotlib)
+:large_blue_circle:Python(pandas, numpy, matplotlib)
 
-:red_circle:Jupyter Lab/Notebook/VS Code/colab.google/PostgreSQL/Metabase
+:large_blue_circle:Jupyter Lab/Notebook/VS Code/colab.google/PostgreSQL/Metabase
 _______________________________________
 ### **Посмотреть мои работы можно по ссылкам ниже:**
 
