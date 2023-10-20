@@ -73,6 +73,7 @@ _______________________________________
 
 [![certificate](https://img.shields.io/badge/СЕРТИФИКАТ-«Python_для_анализа_данных»-red)](https://drive.google.com/file/d/1eShN1_hxIMOH1IvyMPfN6ooh4mDw993_/view?usp=sharing)
 
+[![certificate](https://img.shields.io/badge/СЕРТИФИКАТ-«Первое_знакомство_с_SQL_и_Python»-red)](https://drive.google.com/file/d/1gw3VOTvJNArGwJ9CCfQAfhau6lSx9whs/view?usp=sharing)
 
 _______________________________________
 
