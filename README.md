@@ -80,7 +80,7 @@ _______________________________________
 
 *(Кликай по шильдикам:point_up_2:)*
 
-[![certificate](https://img.shields.io/badge/ДИПЛОМ(специалист)-«Skillfactory,Аналитик--данных»-blue)](https://drive.google.com/file/d/1ohxmioi04v0gsO-HJ62nUnqOEtbKg6QL/view?usp=sharing)
+[![certificate](https://img.shields.io/badge/ДИПЛОМ(специалист)-«SKILLFACTORY,Аналитик--данных»-blue)](https://drive.google.com/file/d/1ohxmioi04v0gsO-HJ62nUnqOEtbKg6QL/view?usp=sharing)
 
 [![certificate](https://img.shields.io/badge/ДИПЛОМ(магистр)-«НГТУ,ФМА,Электроэнергетика_и_электротехника»-blue)](https://drive.google.com/file/d/1f6U3hO3TkPXtndIvxHQ8al0GndpBafAq/view?usp=sharing)
 
