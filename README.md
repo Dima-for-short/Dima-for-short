@@ -80,13 +80,13 @@ _______________________________________
 
 *(Кликай по шильдикам:point_up_2:)*
 
+[![certificate](https://img.shields.io/badge/ДИПЛОМ(специалист)-«Skillfactory,Аналитик--данных»-blue)](https://drive.google.com/file/d/1ohxmioi04v0gsO-HJ62nUnqOEtbKg6QL/view?usp=sharing)
+
 [![certificate](https://img.shields.io/badge/ДИПЛОМ(магистр)-«НГТУ,ФМА,Электроэнергетика_и_электротехника»-blue)](https://drive.google.com/file/d/1f6U3hO3TkPXtndIvxHQ8al0GndpBafAq/view?usp=sharing)
 
 [![certificate](https://img.shields.io/badge/ДИПЛОМ(бакалавр)-«НГТУ,ФМА,Автоматизация_технологических_процессов_и_производств(по_отраслям)»-blue)](https://drive.google.com/file/d/1hegd2T2Yovv3Czadz35MkTpVM8gt6eVq/view?usp=sharing)
 
 [![certificate](https://img.shields.io/badge/ДИПЛОМ(специалист)-«ТПТК,ЭВМ,Мастер_производственного_обучения_техник--электронщик(всех_наименований)»-blue)](https://drive.google.com/file/d/1ku15_F1yPyH0eEUb15C-nEIZQq2iXfEq/view?usp=sharing)
-
-[![certificate](https://img.shields.io/badge/ДИПЛОМ(специалист)-«Skillfactory,Аналитик--данных»-blue)](https://drive.google.com/file/d/1ohxmioi04v0gsO-HJ62nUnqOEtbKg6QL/view?usp=sharing)
 
 
 ***Дипломы можно проверить в реестре на сайте Рособрнадзора***
