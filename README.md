@@ -65,6 +65,8 @@ _______________________________________
 
 *(Кликай по шильдикам:point_up_2:)*
 
+[![certificate](https://img.shields.io/badge/СЕРТИФИКАТ-«Работа_с_электронными_таблицами_Excel»-red)](https://drive.google.com/file/d/1rPQJmudbiapBM0eznY9DCMivZO6SZw67/view?usp=sharing)
+
 [![certificate](https://img.shields.io/badge/СЕРТИФИКАТ-«Мастер_Google_Таблиц»-red)](https://drive.google.com/file/d/1agr5ZIArFxfzz5nAoMC54vI37Rs_CNFh/view?usp=sharing)
 
 [![certificate](https://img.shields.io/badge/СЕРТИФИКАТ-«Анализ_данных_в_Power_BI»-red)](https://drive.google.com/file/d/1rr6AMrpPRgtXUVQ8nKLex8AkaHV5_hL7/view?usp=sharing)
