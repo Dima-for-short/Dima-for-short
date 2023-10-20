@@ -86,7 +86,7 @@ _______________________________________
 
 [![certificate](https://img.shields.io/badge/ДИПЛОМ(специалист)-«ТПТК,ЭВМ,Мастер_производственного_обучения_техник--электронщик(всех_наименований)»-blue)](https://drive.google.com/file/d/1ku15_F1yPyH0eEUb15C-nEIZQq2iXfEq/view?usp=sharing)
 
-[![certificate](https://img.shields.io/badge/ДИПЛОМ(специалист)-«Skillfactory, Аналитик--данных»-blue)](https://drive.google.com/file/d/1ohxmioi04v0gsO-HJ62nUnqOEtbKg6QL/view?usp=sharing)
+[![certificate](https://img.shields.io/badge/ДИПЛОМ(специалист)-«Skillfactory,Аналитик--данных»-blue)](https://drive.google.com/file/d/1ohxmioi04v0gsO-HJ62nUnqOEtbKg6QL/view?usp=sharing)
 
 
 ***Дипломы можно проверить в реестре на сайте Рособрнадзора***
