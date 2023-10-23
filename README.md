@@ -60,7 +60,7 @@ _______________________________________
 
 [![Project13](https://img.shields.io/badge/PROJECT_12.-Поведенческая_аналитика(проведение_ad--hoc_исследования)(Python,библиотеки--datetime,plotly,matplotlib,numpy,pandas)-blue)](https://colab.research.google.com/drive/1LO7lV3bR9s5ZXkbLOW-s7WU8JcVRQEFs?usp=sharing)
 
-[![Project14](https://img.shields.io/badge/PROJECT_13.-Поэтапный_разбор_A/B--теста-blue)](https://colab.research.google.com/drive/13FFDtnE_4nA1c-T6MedJYC8fxSfPbvMV?usp=sharing)
+[![Project14](https://img.shields.io/badge/PROJECT_13.-Поэтапный_разбор_A/B--теста(Python,библиотека--pandas)-blue)](https://colab.research.google.com/drive/13FFDtnE_4nA1c-T6MedJYC8fxSfPbvMV?usp=sharing)
 _______________________________________
 
 ### **Сертификаты** 
