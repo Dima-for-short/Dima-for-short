@@ -79,6 +79,8 @@ _______________________________________
 
 [![certificate](https://img.shields.io/badge/СЕРТИФИКАТ-«Первое_знакомство_с_SQL_и_Python»-red)](https://drive.google.com/file/d/1gw3VOTvJNArGwJ9CCfQAfhau6lSx9whs/view?usp=sharing)
 
+[![certificate](https://img.shields.io/badge/СЕРТИФИКАТ-«Мастер_производственного_обучения,_техник(всех_наименований)»-red)](https://drive.google.com/file/d/1xS6D362darywtbXeIXdn6I2tfJurllHP/view?usp=sharing)
+
 _______________________________________
 
 ### **Дипломы** 
