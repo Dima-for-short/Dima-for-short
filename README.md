@@ -95,6 +95,7 @@ _______________________________________
 
 [![certificate](https://img.shields.io/badge/ДИПЛОМ(специалист)-«ТПТК,ЭВМ,Мастер_производственного_обучения_техник--электронщик(всех_наименований)»-blue)](https://drive.google.com/file/d/1ku15_F1yPyH0eEUb15C-nEIZQq2iXfEq/view?usp=sharing)
 
+[![certificate](https://img.shields.io/badge/СВИДЕТЕЛЬСТВО(специалист)-«БПТК,Слесарь_по_контрольно--измерительным_приборам_и_автоматике(3-разряд)»-blue)](https://drive.google.com/file/d/1xHicmigO2mhZ9NS7-t4OrfOu18oNq158/view?usp=sharing)
 
 ***Дипломы можно проверить в реестре на сайте Рособрнадзора***
 
