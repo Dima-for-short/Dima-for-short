@@ -97,7 +97,7 @@ _______________________________________
 
 [![certificate](https://img.shields.io/badge/СВИДЕТЕЛЬСТВО(специалист)-«БПТК,Слесарь_по_контрольно--измерительным_приборам_и_автоматике(3--разряд)»-blue)](https://drive.google.com/file/d/1xHicmigO2mhZ9NS7-t4OrfOu18oNq158/view?usp=sharing)
 
-[![certificate](https://img.shields.io/badge/СВИДЕТЕЛЬСТВО(специалист)-«НОРИЛЬСКИЙ_НИКЕЛЬ,Электромонтер_по_ремонту_и_обслуживанию_электрооборудованию(3--разряд)»-blue)](https://drive.google.com/file/d/1mxqad2Vr-SCCbhOtBrAu0wsehPsY84XX/view?usp=sharing)
+[![certificate](https://img.shields.io/badge/СВИДЕТЕЛЬСТВО(специалист)-«НОРИЛЬСКИЙ_НИКЕЛЬ,Электромонтер_по_ремонту_и_обслуживанию_электрооборудования(3--разряд)»-blue)](https://drive.google.com/file/d/1mxqad2Vr-SCCbhOtBrAu0wsehPsY84XX/view?usp=sharing)
 
 ***Дипломы можно проверить в реестре на сайте Рособрнадзора***
 
